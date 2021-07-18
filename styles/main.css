@@ -46,7 +46,8 @@ body {
   font-style: italic;
 }
 
-.header-subtitle {
+.header-subtitle,
+.section-subtitle {
   font-family: Arial, Helvetica, sans-serif;
 }
 
