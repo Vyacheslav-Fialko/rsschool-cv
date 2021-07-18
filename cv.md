@@ -32,3 +32,9 @@ const func = (num) => {
 ## Work experience
 
 _none work experience_
+
+
+## Education
+
+* UDEMY
+  * html css javascript certification course for beginner
