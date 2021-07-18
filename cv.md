@@ -17,3 +17,14 @@
 * HTML
 * CSS
 * Java Script
+
+## Code examples
+
+```javascript
+const func = (num) => {
+  if (num > 0) {
+    return num - 1;
+  }
+  return num + 1;
+};
+```
