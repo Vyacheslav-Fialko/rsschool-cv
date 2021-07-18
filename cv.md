@@ -12,3 +12,8 @@
 *I have ability to learn quickly and learn new things.*
 
 *I want be web developer.*
+
+## Skills
+* HTML
+* CSS
+* Java Script
