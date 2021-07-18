@@ -38,3 +38,7 @@ _none work experience_
 
 * UDEMY
   * html css javascript certification course for beginner
+
+## English
+
+**level of English:** **_A2_**
