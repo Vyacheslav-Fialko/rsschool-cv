@@ -69,3 +69,47 @@ body {
 .section-subtitle {
   font-style: oblique;
 }
+
+.footer {
+  width: 100%;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  background-color: #2f4f4f;
+}
+
+.footer-list {
+  display: flex;
+  align-items: center;
+  max-width: 1200px;
+  width: 100%;
+  padding: 0 1rem;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.footer-list-item {
+  list-style: none;
+  margin-right: 5em;
+}
+
+.footer-list-item:last-child {
+  margin-right: 0;
+  margin-left: auto;
+}
+
+.footer-list-link {
+  display: block;
+  height: 32px;
+  padding: 1rem;
+  transition: filter .2s linear;
+}
+
+.footer-list-link:hover{
+  filter: drop-shadow(2px 2px 5px #778899);
+}
+
+.footer-logo {
+  display: block;
+  height: 100%;
+  width: auto;
+}
