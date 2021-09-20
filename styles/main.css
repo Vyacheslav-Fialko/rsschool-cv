@@ -353,7 +353,9 @@ text-transform: uppercase;
 
 @media(max-width: 768px) {
   .burger{
+    position: fixed;
     display: block;
+    z-index: 10;
   }
 
   .header{
@@ -365,15 +367,17 @@ text-transform: uppercase;
   }
 
   .nav-list{
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     right: 0;
+    bottom: 0;
     min-height: 100vh;
     flex-direction: column;
     background-color: #ffffff;
     transform: translateX(200%);
     transition: all 0.3s linear;
+    z-index: 10;
   }
 
   .nav-list.active{
